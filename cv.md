@@ -3,8 +3,8 @@
 # Contact Information
 phone number: +79603334900  
 email: smeshinka010@gmail.com  
-discord:Nadezda(@NadezdaShchuchkina)  
-telegram:@Nadya_Schuchkina  
+discord: Nadezda(@NadezdaShchuchkina)  
+telegram: @Nadya_Schuchkina  
 
 # About Me
 I have always wanted to try myself in development. I hope these courses will be the first step for me and a powerful push in mastering a new profession.
@@ -15,6 +15,7 @@ Python
 PowerBi  
 
 # Code example
+console.log("Hello World");  
 
 # Experience
 2012 - 2021: Accountant at a bank  
