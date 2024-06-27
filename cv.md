@@ -3,8 +3,8 @@
 # Contact Information
 phone number: +79603334900  
 email: smeshinka010@gmail.com  
-discord: Nadezda(@NadezdaShchuchkina)  
-telegram: @Nadya_Schuchkina  
+Discord: Nadezda(@NadezdaShchuchkina)  
+Telegram: @Nadya_Schuchkina  
 
 # About Me
 I have always wanted to try myself in development. I hope these courses will be the first step for me and a powerful push in mastering a new profession.
